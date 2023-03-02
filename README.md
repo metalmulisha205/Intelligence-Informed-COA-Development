@@ -25,3 +25,13 @@ threat intelligence environments.
 * Categorized_Adversary_TTPs.csv - This dataset is compiled from various cyber attacks. It contains metadata on the attacks and includes a list of ATT&CK T-codes: https://github.com/tropChaud/Categorized-Adversary-TTPs
 * AbstractRules.csv - a CSV file of the abstract rules extracted from the dataset after replacing all sub-techniques with their parent technique. 
 * SpecificRules - a CSV file of the specific rules extracted from the dataset. These rules have a combination of both techniques and sub-techniques. 
+## Bibtex Citation
+```
+@inproceedings{mckee_edie_activity_2023,
+  title={Activity-Attack Graphs for Intelligence-Informed Threat COA Development},
+  author={Mckee, Cole and Edie, Kelsie and Duby, Adam},
+  booktitle={2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC)},
+  year={2023},
+  organization={IEEE}
+}
+```
