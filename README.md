@@ -1,6 +1,9 @@
 # Activity-Attack Graphs for Intelligence-Informed Threat COA Development
 ## Purpose
-This github repository contains code used to perform research in the field of cyber threat COA development. This research was published in CCWC 2023 (https://ieee-ccwc.org/). The link for the paper will be published soon. 
+This github repository contains code used to perform research in the field of cyber threat COA development. This research was published in CCWC 2023 (https://ieee-ccwc.org/). The paper can be found IEEE: https://ieeexplore.ieee.org/document/10099277
+## Extension
+This research has been extended to include theat profiling. To view the extended work please see this repository here:
+https://github.com/KelsieEdie/Extending-Threat-Playbooks-for-APT-Attribution
 ## Abstract
 A threat course of action (COA) describes the likely
 tactics, techniques, and procedures (TTPs) an adversary may
