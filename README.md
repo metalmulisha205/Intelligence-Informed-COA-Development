@@ -23,6 +23,7 @@ to generating threat COAs. Further, our implementation uses the
 STIX framework for extensibility and usability in a variety of
 threat intelligence environments.
 ## Contents
+* gen_aag.py - python file to generate an AAG on the command line given a seed as an argument.
 * TTP_AAG.ipynb - contains the python notebook used to create the activity groups and generate the stix bundle of the activity attack graph.
 * TTP_Data.csv - final dataset compiled from both Categorized_Adversary_TTPs.csv and pyattck. 
 * Categorized_Adversary_TTPs.csv - This dataset is compiled from various cyber attacks. It contains metadata on the attacks and includes a list of ATT&CK T-codes: https://github.com/tropChaud/Categorized-Adversary-TTPs
